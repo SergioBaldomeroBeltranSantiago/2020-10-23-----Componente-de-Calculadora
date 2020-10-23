@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LeCalculadoraPrueba
 {
-    public partial class Form1 : Form
+    public partial class Prueba : Form
     {
-        public Form1()
+        public Prueba()
         {
             InitializeComponent();
         }
